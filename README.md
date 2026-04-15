@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**kishorpradhan/kishorpradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Kishor Pradhan
 
-Here are some ideas to get you started:
+Engineering leader — large-scale data & ml platforms → production AI systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### currently building
+
+**[moniq.chat](https://moniq.chat)**
+Portfolio intelligence platform for US and India investors. Ask questions about your portfolio in natural language.
+
+**[portfolio-chat-agent](https://github.com/kishorpradhan/portfolio-chat-agent)**
+The reasoning engine behind Moniq. Agentic LLM orchestration with deterministic-first financial analytics, sandboxed execution, and intent-aware model routing across Gemini, OpenAI, and Claude.
+
+---
+
+### background
+
+Spent years building petabyte-scale data platforms across advertising, streaming, commerce, and financial services. Now exploring how platform engineering principles — observability, cost control, failure recovery, deterministic computation — apply to production AI systems.
+
+---
+
+### stack
+
+`LangGraph` `LiteLLM` `FastAPI` `PostgreSQL` `Langfuse` `GCP / Cloud Run` `Python`
+
+---
+
+[moniq.chat](https://moniq.chat) · [linkedin](https://linkedin.com/in/kishorpradhan)
