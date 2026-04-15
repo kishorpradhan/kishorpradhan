@@ -18,7 +18,7 @@ The reasoning engine behind Moniq. Agentic LLM orchestration with deterministic-
 
 ### background
 
-Spent years building petabyte-scale data platforms across advertising, streaming, commerce, and financial services. Now exploring how platform engineering principles — observability, cost control, failure recovery, deterministic computation — apply to production AI systems.
+Built petabyte-scale data platforms ingesting and processing billions of customer events daily across advertising, streaming, commerce, and financial services. Now exploring how platform engineering principles — observability, cost control, failure recovery, deterministic computation — apply to production AI systems.
 
 ---
 
