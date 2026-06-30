@@ -2,7 +2,7 @@
 
 ## Kishor Pradhan
 
-Engineering leader — large-scale data & ml platforms → production AI systems
+Builder — large-scale data & ml platforms → production AI systems
 
 ---
 
